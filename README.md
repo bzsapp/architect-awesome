@@ -26,9 +26,9 @@
 		* [B，B+，B*树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#b-bb树)
 		* [LSM 树](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#lsm-树)
 	* [BitSet](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#bitset)
-* [常用算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用算法)
+* [常用算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常用算法)ccc
 	* [排序、查找算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#排序查找算法)
-		* [选择排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#选择排序)
+		* [选择排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#选择排序)cccc
 		* [冒泡排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#冒泡排序)
 		* [插入排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#插入排序)
 		* [快速排序](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#快速排序)
